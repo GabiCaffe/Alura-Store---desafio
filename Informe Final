@@ -1,1 +1,76 @@
 
+Informe Final
+Análisis de Tiendas para la Venta del Sr. Juan
+Este informe tiene como objetivo analizar las distintas tiendas y determinar cuál de ellas tiene menor rendimiento. Con esta información el Sr. Juan podrá tomar la decisión de vender esa tienda e invertir en un nuevo negocio. Para ello, se evaluaron diversos factores clave, como la facturación total, las categorías de productos más y menos vendidas, las calificaciones promedio otorgadas por los clientes, los productos con mayor y menor demanda, y el costo de envío promedio. Mediante gráficos y cálculos se busca esclarecer esta situación. 
+
+1. Facturación total de cada tienda
+El análisis de ingresos revela que:
+•	Tienda 1: $1,150,880,400.00
+•	Tienda 2: $1,116,343,500.00
+•	Tienda 3: $1,098,019,600.00
+•	Tienda 4: $1,038,375,700.00
+La tienda con menor facturación es la número 4.
+
+2. Categorías de productos vendidas
+Cantidad de productos vendidos por categoría en cada tienda
+ Tienda 1
+•	Muebles: 465 ventas
+•	Electrónicos: 448 ventas
+•	Juguetes: 324 ventas
+•	Electrodomésticos: 312 ventas
+•	Deportes y diversión: 284 ventas
+La tienda uno tiene su pico en la categoría Muebles con 465 ventas y decae con la venta por categoría de Deportes y diversión con 284 ventas, Si consideramos el total de ventas entre todas las categorías llega a la suma de 1833 productos vendidos.
+ Tienda 2
+•	Muebles: 442 ventas
+•	Electrónicos: 422 ventas
+•	Juguetes: 313 ventas
+•	Electrodomésticos: 305 ventas
+•	Deportes y diversión: 275 ventas
+La tienda uno tiene su pico en la categoría Muebles con 442 ventas y decae con la venta por categoría de Deportes y diversión con 275 ventas, Si consideramos el total de ventas entre todas las categorías llega a la suma de 1757 productos vendidos.
+ Tienda 3
+•	Muebles: 499 ventas
+•	Electrónicos: 451 ventas
+•	Juguetes: 315 ventas
+•	Electrodomésticos: 278 ventas
+•	Deportes y diversión: 277 ventas
+La tienda uno tiene su pico en la categoría Muebles con 499 ventas y decae con la venta por categoría de Deportes y diversión con 277 ventas, Si consideramos el total de ventas entre todas las categorías llega a la suma de 1820 productos vendidos.
+ Tienda 4
+•	Muebles: 480 ventas
+•	Electrónicos: 451 ventas
+•	Juguetes: 338 ventas
+•	Deportes y diversión: 277 ventas
+•	Electrodomésticos: 254 ventas
+La tienda uno tiene su pico en la categoría Muebles con 480 ventas y decae con la venta por categoría de Deportes y diversión con 254 ventas, Si consideramos el total de ventas entre todas las categorías llega a la suma de 1800 productos vendidos.
+
+3. Calificación promedio de clientes
+La satisfacción del cliente es un factor clave. Las calificaciones promedio en cada tienda fueron:
+•	Tienda 1: 3.98
+•	Tienda 2: 4.04
+•	Tienda 3: 4.05
+•	Tienda 4: 4.00
+La tienda con menor calificación en este caso fue la tienda 1 y en segundo lugar la tienda 4.
+
+4. Productos más y menos vendidos
+Los productos con mayor volumen de ventas en cada tienda fueron variados dependiendo cada tienda:
+•	Tienda 1: Armario - 60 ventas
+•	Tienda 2: Iniciando en programación - 65 ventas
+•	Tienda 3: Kit de bancas - 57 ventas
+•	Tienda 4: Cama box - 62 ventas
+Por otro lado, los productos menos vendidos por tienda fueron:
+•	Tienda 1: Auriculares con micrófono - 33 ventas
+•	Tienda 2: Juego de mesa - 32 ventas
+•	Tienda 3: Bloques de construcción - 35 ventas
+•	Tienda 4: Guitarra eléctrica - 33 ventas
+Podemos inferir que de los productos mas vendidos la menor cantidad de productos vendidos la tuvo la tienda 3 con su producto kit de bancas con 57 ventas . Por el otro lado, de los productos menos populares la menor cantidad la tuvo la tienda 2 con su producto juego de mesa con 32 ventas. 
+
+5. Coste de envío promedio
+Los costos promedio encontrados fueron:
+•	Tienda 1: $26,018.61
+•	Tienda 2: $25,216.24
+•	Tienda 3: $24,805.68
+•	Tienda 4: $23,459.46
+Los menores costo de envío los tiene la tienda 4 por el contrario el mayor lo tienen la tienda 1.
+
+Conclusión y Recomendación
+Tras evaluar cada uno de estos factores, se recomienda que el Sr. Juan realice venta de la tienda número 4 . Esta tienda es aquella que tiene la menor facturación, aunque el análisis de sus demás factores no es determinante consideramos que podría vender esta tienda para invertir en su nuevo negocio. Teniendo en cuenta la facturación final como una variable importante a la hora de pensar en la venta. 
+Además, consideramos aconsejar al Sr. Juan que podría mejorar los costos de envió de la tienda 1 y realizar acciones que mejoren su calificación para que sea una fuente confiable para sus compradores. Ya que, esta tienda es la que mayor facturación le proporciona mejorar estas variables podría incrementar aún más su facturación.
